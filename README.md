@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:21224040333
+# Name: Sudeep Raj C R
+# Date:31.05.2026
 
 
 # AIM:
@@ -38,6 +38,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="784" height="661" alt="image" src="https://github.com/user-attachments/assets/8eb8d6de-4350-4fe9-a9e4-bab143c4e171" />
 
 
 
@@ -59,6 +60,9 @@ Visually express any specific needs of a system and disseminate that information
 Create detailed charts that…
 
 
+<img width="805" height="651" alt="image" src="https://github.com/user-attachments/assets/42840c39-37d1-48f7-ad8c-13a59d9d4322" />
+
+
 
 # COMMUNICTION DIAGRAM:
 
@@ -66,6 +70,8 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+
+<img width="799" height="677" alt="image" src="https://github.com/user-attachments/assets/1bc32951-6057-4a50-8ec5-b185bd3d4f49" />
 
 
 
@@ -79,6 +85,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="715" height="486" alt="image" src="https://github.com/user-attachments/assets/88fafe5d-a606-47df-8c2d-f36fa54d1ff6" />
 
 
 
@@ -96,6 +103,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="496" height="724" alt="image" src="https://github.com/user-attachments/assets/b73e23f7-7acf-4d45-9670-f361507e3832" />
 
 
 
@@ -118,6 +126,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="690" height="713" alt="image" src="https://github.com/user-attachments/assets/aae8ca85-a922-43c5-a756-be360ab2458e" />
 
 
 
